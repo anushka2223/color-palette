@@ -131,7 +131,9 @@ mood_color_data = {
     "happy": ["#FFDDC1", "#FFABAB", "#FFC3A0", "#FF677D", "#D4A5A5"],
     "tech": ["#2C3E50", "#34495E", "#16A085", "#27AE60", "#2980B9"],
     "pastel": ["#FADADD", "#E0BBE4", "#D5AAFF", "#B5EAD7", "#C7CEEA"],
-    "midnight": ["#0D1B2A", "#1B263B", "#415A77", "#778DA9", "#E0E1DD"]
+    "midnight": ["#0D1B2A", "#1B263B", "#415A77", "#778DA9", "#E0E1DD"],
+     "sunny":["#FFB347", "#FFD700","#EF6C00", "#F9A825","#FFDD00"]  
+
     # Add more moods...
 }
 categorized_moods = {
